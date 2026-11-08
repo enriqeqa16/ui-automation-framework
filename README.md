@@ -138,3 +138,7 @@ El framework se construye progresivamente, incorporando nuevas funcionalidades, 
 **UI Automation Framework**
 
 Proyecto de aprendizaje y desarrollo profesional orientado a QA Automation.
+
+##QA Enginner 
+
+--Ingeniero en Aseguramiento de la Calidad Rodolfo Enrique Solis Rios, desarrollador del Framework SDET , QA Enginner, QA Automation
