@@ -1,0 +1,12 @@
+# Dependencias de Node.js
+node_modules/
+
+# Variables de entorno
+.env
+.env.*
+
+# Reportes de pruebas
+reports/
+
+# Evidencias de pruebas
+screenshots/
